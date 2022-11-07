@@ -1,0 +1,67 @@
+.top{
+    display: block;
+    font-weight: bold;
+    background: #37bcff;
+    font-size: 20pt;
+    padding: 15px;
+    color: #fff;
+    text-align: center;    
+}
+#learn{
+    margin-left:10%;
+    font-size: 20px;
+    background: #069;
+    padding: 10px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-size: 15pt;
+    color: #fff;
+    vertical-align: middle;
+    text-decoration: none;
+    font-family: Calibri;
+}
+h1{
+    color: white;
+    font-family: "Calibri";
+    font-size:50px;
+    position: relative;
+    top: 25%;
+    
+}
+.container-bg{
+    background:#1f5a85;
+    
+}
+body{
+    cursor: url("https://img.icons8.com/ios/50/000000/manatee.png"),auto;
+}
+.button{
+    position: relative;
+    top:25%;
+    color: #fff;
+    border: none;
+    margin: 10px;
+    display: inline-block;
+    line-height: 30px;
+    border-radius: 4px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: "Calibri";
+    background-color: #98d829;
+    font-size: 20px;
+    padding: 5px 20px;
+    text-decoration: none;
+}
+img{
+    border-radius: 50%;
+    height:175px;
+    width:150px;
+}
+@media screen and (max-width: 600px) {
+.button{
+    display: none;
+}
+h1{
+    font-size:25px;
+}
+}

@@ -1,0 +1,31 @@
+.loop{
+    text-align: center;
+    margin-top: 1%;
+}
+body{
+    background-color:#37bcff;
+    cursor: url("https://img.icons8.com/ios-filled/50/000000/manatee.png"),auto;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+img{
+    height: 500px;
+    width:500px;;
+}
+h2{
+    text-align: center;
+    color: black;
+}
+
+@media screen and (max-width: 600px) {
+    img {
+      width:250px;
+      height:300px;
+    }
+    video{
+        width:250px;
+        height: 300px;
+    }
+  }
