@@ -3,7 +3,7 @@ Website to show off creativity and promote a purpose, purpose of this git is to 
 
 Visit www.manateemike.com to see the live version
 
-![](https://github.com/ccosta568/ElainePascale/blob/main/src/assets/img/author.gif)
+![](https://github.com/ccosta568/ManateeMike/blob/main/manatee-mike/src/assets/img/manatee.gif)
 
 ## How It's Made
 Built with an angular framework, mostly html, css and typescript. AWS for domain, buckets and website hosting. Adobe and Paint for picture and video quality and sizing. 
