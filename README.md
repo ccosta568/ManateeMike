@@ -9,7 +9,7 @@ Visit www.manateemike.com to see the live version
 Built with an angular framework, mostly html, css and typescript. AWS for domain, buckets and website hosting. Adobe and Paint for picture and video quality and sizing. 
 
 ## Optimizations
-1. Add HTTPS security to the site.
+1. Give the site a better purpose.
 2. Add more details to give the site a better feel and look.
 
 
