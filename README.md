@@ -11,7 +11,7 @@ Built with an angular framework, mostly html, css and typescript. AWS for domain
 ## Optimizations
 1. Add HTTPS security to the site.
 2. Add more details to give the site a better feel and look.
-3. www.manateemike.com takes too long to load n stalls out.
+
 
 ## Lessons Learned
 1. Manatee Preservation.
